@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Chapter 1: Introduction
-parent: GitHub for Open-Source Technical Specification Development
+title: "Chapter 1: Introduction"
+parent: "GitHub for Open-Source Technical Specification Development"
 nav_order: 1
 ---
 
