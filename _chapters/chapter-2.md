@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Chapter 2: Repository Setup
-parent: GitHub for Open-Source Technical Specification Development
+title: "Chapter 2: Repository Setup"
+parent: "GitHub for Open-Source Technical Specification Development"
 nav_order: 2
 ---
 
