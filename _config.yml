@@ -1,0 +1,25 @@
+title: GitHub for Open-Source Technical Specification Development
+description: A course for contributors working on open-source technical specifications using GitHub.
+remote_theme: just-the-docs/just-the-docs
+color_scheme: light
+
+url: https://minion-of-gozer.github.io/github-for-spec-dev-course
+
+aux_links:
+  View this repo on GitHub: https://github.com/Minion-of-Gozer/github-for-spec-dev-course
+
+plugins:
+  - jekyll-feed
+
+collections:
+  chapters:
+    output: true
+    permalink: /:collection/:name
+    sort_by: nav_order
+
+just_the_docs:
+  collections:
+    chapters:
+      name: Chapters
+      nav_exclude: false
+      nav_order: 2
